@@ -4,6 +4,12 @@ BuyBusy is a sleek and intuitive e-commerce web application built with ReactJS. 
 
 ---
 
+# Visit App 💁‍♂️:
+
+Visit the app at [https://resplendent-churros-6557e4.netlify.app/](https://resplendent-churros-6557e4.netlify.app/).
+
+---
+
 ## Features
 
 - User Authentication (Sign Up, Login, Logout)
